@@ -1,0 +1,111 @@
+ticker_symbol,industry,sector,website,shares,regularMarketPrice
+MO,Tobacco,Consumer Defensive,https://www.altria.com,53,65.67
+VICI,REIT - Diversified,Real Estate,https://www.viciproperties.com,45,32.82
+CTRA,Oil & Gas E&P,Energy,https://www.coterra.com,41,23.96
+KO,Beverages - Non-Alcoholic,Consumer Defensive,https://www.coca-colacompany.com,30,70.75
+EW,Medical Devices,Healthcare,https://www.edwards.com,28,78.16
+KIM,REIT - Retail,Real Estate,https://www.kimcorealty.com,28,20.8
+MNST,Beverages - Non-Alcoholic,Consumer Defensive,https://www.monsterbevcorp.com,26,63.66
+KMI,Oil & Gas Midstream,Energy,https://www.kindermorgan.com,24,26.89
+RF,Banks - Regional,Financial Services,https://www.regions.com/personal-banking,24,24.63
+NEE,Utilities - Regulated Electric,Utilities,https://www.nexteraenergy.com,23,72.45
+NEM,Gold,Basic Materials,https://www.newmont.com,23,68.87
+LNT,Utilities - Regulated Electric,Utilities,https://www.alliantenergy.com,22,65.32
+GIS,Packaged Foods,Consumer Defensive,https://www.generalmills.com,20,49.35
+CMCSA,Telecom Services,Communication Services,https://corporate.comcast.com,20,31.41
+CPRT,Specialty Business Services,Industrials,https://www.copart.com,20,46.69
+DVN,Oil & Gas E&P,Energy,https://www.devonenergy.com,20,32.87
+D,Utilities - Regulated Electric,Utilities,https://www.dominionenergy.com,20,61.49
+SRE,Utilities - Diversified,Utilities,https://www.sempra.com,18,80.9
+NWSA,Entertainment,Communication Services,https://newscorp.com,17,28.38
+CSX,Railroads,Industrials,https://www.csx.com,17,35.23
+PEG,Utilities - Regulated Electric,Utilities,https://investor.pseg.com/home/default.aspx,15,86.54
+MTCH,Internet Content & Information,Communication Services,https://www.mtch.com,15,35.7
+WMB,Oil & Gas Midstream,Energy,https://www.williams.com,15,58.06
+CL,Household & Personal Products,Consumer Defensive,https://www.colgatepalmolive.com,14,84.45
+NWS,Entertainment,Communication Services,https://newscorp.com,14,32.875
+MKC,Packaged Foods,Consumer Defensive,https://www.mccormickcorporation.com,14,69.67
+CF,Agricultural Inputs,Basic Materials,https://www.cfindustries.com,13,82.63
+SLB,Oil & Gas Equipment & Services,Energy,https://www.slb.com,13,32.37
+AEP,Utilities - Regulated Electric,Utilities,https://www.aep.com,12,112
+MOS,Agricultural Inputs,Basic Materials,https://mosaicco.com,12,32.5
+WEC,Utilities - Regulated Electric,Utilities,https://www.wecenergygroup.com,12,109.67
+EQT,Oil & Gas E&P,Energy,https://www.eqt.com,11,51.82
+EQR,REIT - Residential,Real Estate,https://www.equityapartments.com,11,62.3
+AWK,Utilities - Regulated Water,Utilities,https://www.amwater.com,11,145.55
+ATO,Utilities - Regulated Gas,Utilities,https://www.atmosenergy.com,11,165.04
+PG,Household & Personal Products,Consumer Defensive,https://www.pginvestor.com,10,154.98
+PM,Tobacco,Consumer Defensive,https://www.pmi.com,10,170.32
+TTD,Advertising Agencies,Communication Services,https://www.thetradedesk.com,10,53.175
+DUK,Utilities - Regulated Electric,Utilities,https://www.duke-energy.com,9,125.56
+EOG,Oil & Gas E&P,Energy,https://www.eogresources.com,9,116.84
+SYF,Credit Services,Financial Services,https://www.synchrony.com,9,69.6
+MRK,Drug Manufacturers - General,Healthcare,https://www.merck.com,9,80.03
+ABT,Medical Devices,Healthcare,https://www.abbott.com,8,131.36
+PLD,REIT - Industrial,Real Estate,https://www.prologis.com,8,104.08
+KMB,Household & Personal Products,Consumer Defensive,https://www.kimberly-clark.com,8,134.15
+FANG,Oil & Gas E&P,Energy,https://www.diamondbackenergy.com,8,136.84
+HSY,Confectioners,Consumer Defensive,https://www.thehersheycompany.com,7,175.42
+EMN,Specialty Chemicals,Basic Materials,https://www.eastman.com,7,61.07
+ZTS,Drug Manufacturers - Specialty & Generic,Healthcare,https://www.zoetis.com,6,149.02
+FTNT,Software - Infrastructure,Technology,https://www.fortinet.com,6,74.57
+GOOGL,Internet Content & Information,Communication Services,https://abc.xyz,6,201
+GOOG,Internet Content & Information,Communication Services,https://abc.xyz,6,201.63
+SCHW,Capital Markets,Financial Services,https://www.schwab.com,6,97.63
+COP,Oil & Gas E&P,Energy,https://www.conocophillips.com,6,93.53
+AVB,REIT - Residential,Real Estate,https://www.avalonbay.com,5,185.08
+DECK,Footwear & Accessories,Consumer Cyclical,https://www.deckers.com,5,100.47
+EBAY,Internet Retail,Consumer Cyclical,https://www.ebayinc.com,5,95.3
+ABNB,Travel Services,Consumer Cyclical,https://www.airbnb.com,5,118.3
+NVDA,Semiconductors,Technology,https://www.nvidia.com,5,182.06
+DOV,Specialty Industrial Machinery,Industrials,https://www.dovercorporation.com,5,175.29
+CME,Financial Data & Stock Exchanges,Financial Services,https://www.cmegroup.com,4,285.75
+HLT,Lodging,Consumer Cyclical,https://www.hilton.com,4,261.05
+MAR,Lodging,Consumer Cyclical,https://www.marriott.com,4,257.97
+SPG,REIT - Retail,Real Estate,https://www.simon.com,4,165.2
+ESS,REIT - Residential,Real Estate,https://www.essexapartmenthomes.com,4,252.08
+ANET,Computer Hardware,Technology,https://www.arista.com,4,137.65
+EXR,REIT - Industrial,Real Estate,https://www.extraspace.com,4,135.23
+UNP,Railroads,Industrials,https://www.up.com,4,219.65
+VRSK,Consulting Services,Industrials,https://www.verisk.com,4,267.42
+JNJ,Drug Manufacturers - General,Healthcare,https://www.jnj.com,4,173.82
+V,Credit Services,Financial Services,https://www.visa.com,4,335.9
+ICE,Financial Data & Stock Exchanges,Financial Services,https://www.ice.com,3,185.93
+NSC,Railroads,Industrials,https://www.norfolksouthern.com,3,278.32
+RMD,Medical Instruments & Supplies,Healthcare,https://www.resmed.co.in,3,284.32
+TPL,Oil & Gas E&P,Energy,https://www.texaspacific.com,3,854.83
+MCD,Restaurants,Consumer Cyclical,https://www.mcdonalds.com,3,304.36
+YUM,Restaurants,Consumer Cyclical,https://www.yum.com,3,141.27
+LIN,Specialty Chemicals,Basic Materials,https://www.linde.com,3,470.38
+SBAC,REIT - Specialty,Real Estate,https://www.sbasite.com,3,219.11
+AME,Specialty Industrial Machinery,Industrials,https://www.ametek.com,3,182.52
+PSA,REIT - Industrial,Real Estate,https://www.publicstorage.com,3,279.75
+COIN,Financial Data & Stock Exchanges,Financial Services,https://www.coinbase.com,3,319.62
+VRTX,Biotechnology,Healthcare,https://www.vrtx.com,3,374.46
+VRSN,Software - Infrastructure,Technology,https://www.verisign.com,3,267.42
+JPM,Banks - Diversified,Financial Services,https://www.jpmorganchase.com,2,289.56
+MPWR,Semiconductors,Technology,https://www.monolithicpower.com,2,797.51
+MLM,Building Materials,Basic Materials,https://www.martinmarietta.com,2,599.93
+APD,Specialty Chemicals,Basic Materials,https://www.airproducts.com,2,283.95
+ECL,Specialty Chemicals,Basic Materials,https://www.ecolab.com,2,273.5
+ISRG,Medical Instruments & Supplies,Healthcare,https://www.intuitive.com,2,471.85
+META,Internet Content & Information,Communication Services,https://investor.atmeta.com,2,765.87
+VMC,Building Materials,Basic Materials,https://www.vulcanmaterials.com,2,285.24
+TMUS,Telecom Services,Communication Services,https://www.t-mobile.com,2,248.87
+LULU,Apparel Retail,Consumer Cyclical,https://shop.lululemon.com,2,186.44
+REGN,Biotechnology,Healthcare,https://www.regeneron.com,2,545.94
+MA,Credit Services,Financial Services,https://www.mastercard.com,2,573.59
+ITW,Specialty Industrial Machinery,Industrials,https://www.itw.com,2,256.89
+NFLX,Entertainment,Communication Services,https://www.netflix.com,1,1218.31
+ADBE,Software - Application,Technology,https://www.adobe.com,1,333.65
+RCL,Travel Services,Consumer Cyclical,https://www.rclinvestor.com,1,302.86
+SHW,Specialty Chemicals,Basic Materials,https://www.sherwin-williams.com,1,354.58
+MSCI,Financial Data & Stock Exchanges,Financial Services,https://www.msci.com,1,549.39
+SNA,Tools & Accessories,Industrials,https://www.snapon.com,1,321.17
+LLY,Drug Manufacturers - General,Healthcare,https://www.lilly.com,1,635.22
+MSFT,Software - Infrastructure,Technology,https://www.microsoft.com,1,521.77
+BKNG,Travel Services,Consumer Cyclical,https://www.bookingholdings.com,0,5364.25
+TDG,Aerospace & Defense,Industrials,https://www.transdigm.com,0,1409.55
+KLAC,Semiconductor Equipment & Materials,Technology,https://www.kla.com,0,910.18
+FICO,Software - Application,Technology,https://www.fico.com,0,1311.26
+SNPS,Software - Infrastructure,Technology,https://www.synopsys.com,0,616.12
